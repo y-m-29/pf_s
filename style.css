@@ -236,13 +236,14 @@ body {
     }
 
     .nav-item-menu{
-      padding: 20px 100px;
+      padding: 20px 50px;
       font-size: 40px;
       font-family: "Raleway", serif;
       font-optical-sizing: auto;
       font-weight: 400;
       font-style: normal;
       text-decoration: none;
+      text-align: center;
     }
 
     .nav-item-menu:hover{
@@ -252,7 +253,7 @@ body {
 
     .nav-item-sp {
       list-style: none;
-      padding: 5px 100px;
+      padding: 5px 50px;
       font-size: 30px;
       font-family: "Raleway", serif;
       font-optical-sizing: auto;
